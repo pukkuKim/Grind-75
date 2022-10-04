@@ -1,5 +1,7 @@
 ## PLANNER
 
+![뿌끼](https://storage.googleapis.com/pukkukim/KakaoTalk_Image_2022-10-03-22-19-10.jpeg)
+
 ### OCT 4 (3 problems)
 235. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
