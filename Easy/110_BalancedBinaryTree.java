@@ -20,9 +20,6 @@ class Solution {
             return true;
         }
 
-        // can join the "if" and "else" statements w/ &&
-        // (need to change > 1 to < 2)
-        // and then return "true"
         if (Math.abs(height(root.left) - height(root.right)) > 1) {
             return false;
         } else {
@@ -32,7 +29,7 @@ class Solution {
 
     private int height(TreeNode root) {
         if (root == null) {
-            return -1;
+            return 0;
         }
 
         return Math.max(height(root.left), height(root.right)) + 1;
