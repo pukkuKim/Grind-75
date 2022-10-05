@@ -2,12 +2,12 @@
 
 ![뿌끼](https://storage.googleapis.com/pukkukim/KakaoTalk_Image_2022-10-03-22-19-10.jpeg)
 
-### OCT 4 (3 problems)
-235. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-
 ### OCT 5 (3 problems)
-232. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-278. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
+[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+[First Bad Version](https://leetcode.com/problems/first-bad-version/)
+[Ransom Note](https://leetcode.com/problems/ransom-note/)
+
+### OCT 6 (3 problems)
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
