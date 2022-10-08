@@ -2,12 +2,38 @@
 
 ![뿌끼](https://storage.googleapis.com/pukkukim/KakaoTalk_Image_2022-10-03-22-19-10.jpeg)
 
-### OCT 6 (3 problems)
-- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+### OCT 10 월요일 (2 problems)
+- [Diameter of Binary Tree]
+- [Middle of the Linked List]
 
-### OCT 7 (3 problems)
-- [Flood Fill](https://leetcode.com/problems/flood-fill/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Add Binary](https://leetcode.com/problems/add-binary/)
+### Oct 12 수요일 (3 problems)
+- [Maximum Depth of Binary Tree]
+- [Contains Duplicate]
+- [Meeting Rooms]
+
+### Oct 14 금요일 (3 problems)
+- [Roman to Integer]
+- [Backspace String Compare]
+- [Counting Bits]
+
+### Oct 15 토요일 (3 problems)
+- [Same Tree]
+- [Number of 1 Bits]
+- [Longest Common Prefix]
+
+### Oct 16 일요일 (3 problems)
+- [Single Number]
+- [Palindrome Linked List]
+- [Move Zeroes]
+
+### Oct 17 월요일 (3 problems)
+- [Symmetric Tree]
+- [Missing Number]
+- [Palindrome Number]
+
+### Oct 19 수요일 (3 problems)
+- [Convert Sorted Array to Binary Search Tree]
+- [Reverse Bits]
+- [Subtree of Another Tree]
+
+## EASY -> MEDIUM
