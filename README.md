@@ -4,36 +4,31 @@
 
 ### OCT 10 월요일 (2 problems)
 - [Diameter of Binary Tree]
-- [Middle of the Linked List]
-
-### Oct 12 수요일 (3 problems)
-- [Maximum Depth of Binary Tree]
-- [Contains Duplicate]
 - [Meeting Rooms]
 
-### Oct 14 금요일 (3 problems)
+### Oct 12 수요일 (3 problems)
 - [Roman to Integer]
 - [Backspace String Compare]
 - [Counting Bits]
 
-### Oct 15 토요일 (3 problems)
+### Oct 14 금요일 (3 problems)
 - [Same Tree]
 - [Number of 1 Bits]
 - [Longest Common Prefix]
 
-### Oct 16 일요일 (3 problems)
+### Oct 15 토요일 (3 problems)
 - [Single Number]
 - [Palindrome Linked List]
 - [Move Zeroes]
 
-### Oct 17 월요일 (3 problems)
+### Oct 16 일요일 (3 problems)
 - [Symmetric Tree]
 - [Missing Number]
 - [Palindrome Number]
 
-### Oct 19 수요일 (3 problems)
+### Oct 17 월요일 (3 problems)
 - [Convert Sorted Array to Binary Search Tree]
 - [Reverse Bits]
 - [Subtree of Another Tree]
 
-## EASY -> MEDIUM
+## EASY -> MEDIUM on Oct 19 수요일
