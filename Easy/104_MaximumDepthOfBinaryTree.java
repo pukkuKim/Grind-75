@@ -16,7 +16,7 @@
 class Solution {
     public int maxDepth(TreeNode root) {
 
-        // you want to compare the result from the current node's left and right -> get max of theml
+        // you want to compare the result from the current node's left and right -> get max of them
 
         if (root == null) {
             return 0;
