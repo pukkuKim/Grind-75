@@ -12,35 +12,35 @@ class Solution {
     private String calculate(String longer, String shorter) {
 
         char[] arr = new char[longer.length() + 1];
-        boolean carryOver = false;
+        boolean carry = false;
         int diff = longer.length() - shorter.length();
 
         for (int i = shorter.length() - 1; i >= 0; i--) {
             if (longer.charAt(i + diff) == '1' && shorter.charAt(i) == '1') {
-                if (carryOver) {
+                if (carry) {
                     arr[i+1+diff] = '1';
                 } else {
                     arr[i+1+diff] = '0';
                 }
-                carryOver = true;
+                carry = true;
             } else if (longer.charAt(i + diff) == '1' || shorter.charAt(i) == '1') {
-                if (carryOver) {
+                if (carry) {
                     arr[i+1+diff] = '0';
                 } else {
                     arr[i+1+diff] = '1';
                 }
             } else {
-                if (carryOver) {
+                if (carry) {
                     arr[i+1+diff] = '1';
                 } else {
                     arr[i+1+diff] = '0';
                 }
-                carryOver = false;
+                carry = false;
             }
         }
 
         if (diff > 0) {
-            if (!carryOver) {
+            if (!carry) {
                 for (int i = 0; i < diff; i++) {
                     arr[i+1] = longer.charAt(i);
                 }
