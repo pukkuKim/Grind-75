@@ -16,7 +16,7 @@
 - [Number of 1 Bits]
 - [Longest Common Prefix]
 
-### Oct 15 토요일 (3 problems)
+### ~~Oct 15 토요일 (3 problems)~~
 - [~~Single Number~~] (Solved on Oct 14)
 - [~~Palindrome Linked List~~] (Solved on Oct 14)
 - [~~Move Zeroes~~] (Solved on Oct 14)
