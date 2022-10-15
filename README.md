@@ -29,6 +29,6 @@
 ### Oct 17 월요일 (3 problems)
 - [Convert Sorted Array to Binary Search Tree]
 - [Reverse Bits]
-- [Subtree of Another Tree]
+- [~~Subtree of Another Tree~~] (Solved on Oct 14)
 
 ## EASY -> MEDIUM on Oct 19 수요일
